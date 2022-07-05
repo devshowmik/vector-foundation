@@ -123,3 +123,24 @@ background-color:#FFEEEE ;
 .margin-r-10{
     margin-right: 10%;
 }
+/* get update */
+.update-form{
+    background-color: #FFF4D6;
+    padding: 80px 0;
+}
+.update-form form{
+    width: 50%;
+     margin: auto;
+}
+.update-form input[type="email"]{
+    padding: 15px 30px;
+    width: 70%;
+    background-color: #D9D9D9;
+    border: #D9D9D9;
+}
+.update-form .main-btn{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    width: 30%;
+}
+/*footer */
