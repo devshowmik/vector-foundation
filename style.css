@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;500&family=Lobster&family=Manrope:wght@300&display=swap');
 body{
     font-family: 'Inter', sans-serif;
     margin: 0;
+    padding: 0;
 }
 
 .container{
@@ -144,3 +145,16 @@ background-color:#FFEEEE ;
     width: 30%;
 }
 /*footer */
+footer{
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 40px 0;
+}
+footer h3{
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
+    margin-bottom: 0;
+}
+footer p{
+    font-family: 'Manrope', sans-serif;
+}
