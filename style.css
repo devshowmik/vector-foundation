@@ -59,6 +59,7 @@ h3{
     font-size: 30px;
     color:#707070 ;
 }
+
 p{
     color: #707070;
 }
@@ -143,6 +144,25 @@ background-color:#FFEEEE ;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     width: 30%;
+}
+/*Recent Activity*/
+.blog-item{
+    width: 33%;
+    margin-right: 2%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 18px #70707026
+}
+.blog-item .content{
+    padding: 30px 20px;
+}
+.blog-item img{
+    width: 100%;
+    max-height: 250px;
+}
+.blog-item h4{
+    font-size: 24px;
+    color:#707070 ;
+    margin: 0;
 }
 /*footer */
 footer{
