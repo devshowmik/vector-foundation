@@ -9,9 +9,9 @@ body{
     width: 80%;
     margin: 0 auto;
 }
-.small-container{
-    width: 60%;
-    margin: 0 auto;
+.small-container {
+	width: 850px;
+	margin: 0 auto;
 }
 .main-btn{
     background-color: #FF5959;
@@ -146,11 +146,11 @@ background-color:#FFEEEE ;
     width: 30%;
 }
 /*Recent Activity*/
-.blog-item{
-    width: 33%;
-    margin-right: 2%;
-    border-radius: 5px;
-    box-shadow: 0px 0px 18px #70707026;
+.blog-item {
+	width: 33%;
+	margin-right: 2%;
+	border-radius: 5px;
+	box-shadow: 23px 32px 42px #00000026;
 }
 .blog-item .content{
     padding: 30px 20px;
